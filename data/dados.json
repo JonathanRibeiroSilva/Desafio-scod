@@ -1,0 +1,101 @@
+[
+  {
+    "codigo_lancamento": "30000001",
+    "descricao": "IPTU",
+    "exercicio": "2025",
+    "parcela": "1/10",
+    "vencimento": "10/01/2025",
+    "status": "Vencido",
+    "boleto_url": "boletos/30000001.pdf",
+    "valor": "130.00",
+    "linha_digitavel": "100000000001 200000000001 300000000001 8 900000000100"
+  },
+  {
+    "codigo_lancamento": "30000002",
+    "descricao": "IPTU",
+    "exercicio": "2025",
+    "parcela": "2/10",
+    "vencimento": "10/02/2025",
+    "status": "Pago",
+    "boleto_url": "boletos/30000002.pdf",
+    "valor": "140.00",
+    "linha_digitavel": "100000000002 200000000002 300000000002 9 900000000200"
+  },
+  {
+    "codigo_lancamento": "30000003",
+    "descricao": "IPTU",
+    "exercicio": "2025",
+    "parcela": "3/10",
+    "vencimento": "10/03/2025",
+    "status": "Vencido",
+    "boleto_url": "boletos/30000003.pdf",
+    "valor": "150.00",
+    "linha_digitavel": "100000000003 200000000003 300000000003 10 900000000300"
+  },
+  {
+    "codigo_lancamento": "30000004",
+    "descricao": "IPTU",
+    "exercicio": "2025",
+    "parcela": "4/10",
+    "vencimento": "10/04/2025",
+    "status": "Pago",
+    "boleto_url": "boletos/30000004.pdf",
+    "valor": "160.00",
+    "linha_digitavel": "100000000004 200000000004 300000000004 11 900000000400"
+  },
+  {
+    "codigo_lancamento": "30000005",
+    "descricao": "IPTU",
+    "exercicio": "2025",
+    "parcela": "5/10",
+    "vencimento": "10/05/2025",
+    "status": "Vencido",
+    "boleto_url": "boletos/30000005.pdf",
+    "valor": "170.00",
+    "linha_digitavel": "100000000005 200000000005 300000000005 12 900000000500"
+  },
+  {
+    "codigo_lancamento": "30000006",
+    "descricao": "IPTU",
+    "exercicio": "2025",
+    "parcela": "6/10",
+    "vencimento": "10/06/2025",
+    "status": "Pago",
+    "boleto_url": "boletos/30000006.pdf",
+    "valor": "180.00",
+    "linha_digitavel": "100000000006 200000000006 300000000006 13 900000000600"
+  },
+  {
+    "codigo_lancamento": "30000007",
+    "descricao": "IPTU",
+    "exercicio": "2025",
+    "parcela": "7/10",
+    "vencimento": "10/07/2025",
+    "status": "Vencido",
+    "boleto_url": "boletos/30000007.pdf",
+    "valor": "120.00",
+    "linha_digitavel": "100000000007 200000000007 300000000007 14 900000000700"
+  },
+  {
+    "codigo_lancamento": "30000008",
+    "descricao": "IPTU",
+    "exercicio": "2025",
+    "parcela": "8/10",
+    "vencimento": "10/08/2025",
+    "status": "Pago",
+    "boleto_url": "boletos/753847.pdf",
+    "valor": "130.00",
+    "linha_digitavel": "100000000008 200000000008 300000000008 15 900000000800"
+  },
+  {
+    "codigo_lancamento": "30000009",
+    "descricao": "Dívida Ativa - Ref. IPTU",
+    "exercicio": "2023",
+    "parcela": "1/2",
+    "vencimento": "20/10/2025",
+    "status": "A vencer",
+    "boleto_url": "boletos/2139180.pdf",
+    "valor": "140.00",
+    "linha_digitavel": "100000000009 200000000009 300000000009 16 900000000900"
+  }
+]
