@@ -61,8 +61,9 @@ async def main():
                     debito["linha_digitavel"] = digitavel           
                 except httpx.HTTPError as e:
                     print(f"Erro ao baixar {url_pdf}: {e}")
-                with open(caminho_data, "w", encoding="utf-8") as dados:
-                    json.dump(debitos,dados,ensure_ascii=False,indent=2)
                 debitos.append(debito)
+            with open(caminho_data, "w", encoding="utf-8") as dados:
+                json.dump(debitos,dados,ensure_ascii=False,indent=2)
+                
 if __name__ == "__main__":
     asyncio.run(main())

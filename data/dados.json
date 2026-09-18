@@ -97,5 +97,16 @@
     "boleto_url": "boletos/2139180.pdf",
     "valor": "140.00",
     "linha_digitavel": "100000000009 200000000009 300000000009 16 900000000900"
+  },
+  {
+    "codigo_lancamento": "30000010",
+    "descricao": "Dívida Ativa - Ref. IPTU",
+    "exercicio": "2023",
+    "parcela": "2/2",
+    "vencimento": "20/11/2025",
+    "status": "A vencer",
+    "boleto_url": "boletos/18164829.pdf",
+    "valor": "150.00",
+    "linha_digitavel": "100000000010 200000000010 300000000010 17 900000001000"
   }
 ]
